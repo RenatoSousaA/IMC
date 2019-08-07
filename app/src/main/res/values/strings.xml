@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IMC</string>
+
+    <string name="label_titulo">Calculadora de IMC</string>
+
+    <string name="label_altura">Altura</string>
+    <string name="label_peso">Peso</string>
+    <string name="button_calcular">Calcular</string>
+    <string name="button_limpar">Limpar</string>
+    <string name="text_footer">Desenvolvido por Renato Sousa</string>
+    <string name="status_imc">Peso Ideal</string>
+    <string name="result_img">20.1</string>
+
+    <string name="label_sexo">Sexo</string>
+    <string name="label_masculino">Masculino</string>
+    <string name="label_feminino">Feminino</string>
+
+</resources>
